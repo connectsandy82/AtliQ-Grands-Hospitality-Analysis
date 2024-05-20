@@ -3,7 +3,7 @@
 This project is part of the Codebasics September 2022 resume challenge. The goal is to analyze and visualize data for AtliQ Grands, a chain of luxury hotels in India, to help them regain market share and improve revenue.
 
 - **Challenge Details:** [Codebasics Resume Project Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-- **Interactive Dashboard:** [View Dashboard]([https://www.novypro.com/project/-codebasics-september-month-resume-challenge](https://rb.gy/k0s630)
+- **Interactive Dashboard:** [View Dashboard](https://rb.gy/k0s630)
 - **Presentation Video:** Coming Soooooon!
 
 ## Problem Statement:
@@ -64,26 +64,32 @@ You can find the detailed Jupyter Notebook [here](https://rb.gy/0manv0).
 
 ## Key Insights Summary:
 
-- **Revenue by Month Wise:** 
-  - In May 2022, revenue generated was 582M, the highest compared to other months.
-  - June 2022 – 554M and July 2022 – 573M.
+### Revenue Analysis:
+
+- **Month-wise Revenue:** 
+  - May 2022 recorded the highest revenue of 582M, followed by June 2022 with 554M and July 2022 with 573M.
+
+### Customer Segment Analysis:
 
 - **RC % by City:**
-  - Mumbai is in 1st place with an RC % of 39.13%, followed by Bangalore.
-  - Delhi is in the last place.
+  - Mumbai leads with an RC % of 39.13%, followed closely by Bangalore, while Delhi trails behind.
 
 - **RC % by Room Type:**
-  - Elite rooms are in 1st place with an RC % of 32.73%.
+  - Elite rooms dominate with a significant RC % of 32.73%.
 
 - **RC % by Category:**
-  - The Luxury category is leading with 61.61% of revenue compared to the Business category.
+  -The luxury category outperforms, contributing 61.61% of revenue compared to the Business category.
+
+### Marketing Channel Analysis:
 
 - **RC % by Booking Platforms:**
-  - "Make Your Trip" contributes around 19-20% to the revenue.
-  - A major portion of the revenue, around 40%, comes from unrecognized sources which need identification for better marketing efforts.
+  - "Make Your Trip" accounts for approximately 19-20% of revenue.
+  - Approximately 40% of revenue originates from unidentified sources, warranting focused identification efforts for enhanced marketing strategies.
+
+### Property Performance Analysis:
 
 - **RC % by Property:**
-  - AtliQ Exotica is in 1st place with an RC % of 18.75%.
-  - AtliQ Palace is in 2nd place with an RC % of 17.80%.
-  - AtliQ Seasons is the worst-performing property with a rating of 2.29 and an RC % of 3.87%.
+  - AtliQ Exotica leads with an RC % of 18.75%, followed closely by AtliQ Palace at 17.80%.
+  - AtliQ Seasons lags significantly with a rating of 2.29 and an RC % of 3.87%, indicating room for improvement.
+
 
